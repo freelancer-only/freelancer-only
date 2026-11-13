@@ -22,4 +22,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=freelancer-only&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=freelancer-only&icon=0&color=0)]
